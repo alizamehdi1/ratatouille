@@ -16,4 +16,4 @@ This is a Epicurean Symphony restaurant site. With this you can browse through t
 
 ### Project Screenshot:
 
-<img src="https://i.ibb.co/cNyJ09W/ehungry.png" alt="ehungry googlermridul" border="0">
+<img src="https://github.com/alizamehdi1/ratatouille/blob/main/Screenshot%202023-12-04%20124008.png" alt="ehungry googlermridul" border="0">
